@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ManaBingsu/react-movie-service/static/css/main.7b081e0e.chunk.css",
+    "main.js": "/ManaBingsu/react-movie-service/static/js/main.660de94a.chunk.js",
+    "main.js.map": "/ManaBingsu/react-movie-service/static/js/main.660de94a.chunk.js.map",
+    "runtime-main.js": "/ManaBingsu/react-movie-service/static/js/runtime-main.b352bdd6.js",
+    "runtime-main.js.map": "/ManaBingsu/react-movie-service/static/js/runtime-main.b352bdd6.js.map",
+    "static/js/2.03729dac.chunk.js": "/ManaBingsu/react-movie-service/static/js/2.03729dac.chunk.js",
+    "static/js/2.03729dac.chunk.js.map": "/ManaBingsu/react-movie-service/static/js/2.03729dac.chunk.js.map",
+    "index.html": "/ManaBingsu/react-movie-service/index.html",
+    "precache-manifest.9c1827f6597de95cd0e72766a63dccaa.js": "/ManaBingsu/react-movie-service/precache-manifest.9c1827f6597de95cd0e72766a63dccaa.js",
+    "service-worker.js": "/ManaBingsu/react-movie-service/service-worker.js",
+    "static/css/main.7b081e0e.chunk.css.map": "/ManaBingsu/react-movie-service/static/css/main.7b081e0e.chunk.css.map",
+    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/ManaBingsu/react-movie-service/static/js/2.03729dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b352bdd6.js",
+    "static/js/2.03729dac.chunk.js",
+    "static/css/main.7b081e0e.chunk.css",
+    "static/js/main.660de94a.chunk.js"
+  ]
+}
