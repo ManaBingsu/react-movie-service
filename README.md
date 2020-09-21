@@ -1,5 +1,5 @@
 ### REACT_MOVIE_SERVICE
 
-https://github.io/ManaBingsu/react-movie-service
+https://ManaBingsu.github.io/react-movie-service
 
 CLONE CODING!
